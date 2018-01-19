@@ -3,7 +3,7 @@ number=gets.to_i
 
 case number
 when number=1
-	puts "output= 1-1 =" + (1-1).to_s
+	puts "output= 1-0 =" + (1-0).to_s
 when number=2
 	puts "output= 1*2 =" + (1*2).to_s
 when number=3
